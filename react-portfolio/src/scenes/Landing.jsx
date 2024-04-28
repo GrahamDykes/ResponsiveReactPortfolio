@@ -46,12 +46,12 @@ const Landing = ({ setSelectedPage }) => {
           }}
         >
           <p className="text-6xl font-playfair z-10 text-center md:text-start">
-            Jane {""}
+            Graham {""}
             <span
               className="xs:relative xs:text-deep-blue xs:font-semibold z-20 xs:before:content-brush
               before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]"
             >
-              Esper
+              Dykes
             </span>
           </p>
 
@@ -91,6 +91,7 @@ const Landing = ({ setSelectedPage }) => {
             </div>
           </AnchorLink>
         </motion.div>
+
 
         <motion.div
           className="flex mt-5 justify-center md:justify-start"
