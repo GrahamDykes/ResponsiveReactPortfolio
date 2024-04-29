@@ -1071,11 +1071,6 @@ video {
   color: rgb(253 204 73 / var(--tw-text-opacity));
 }
 
-.text-emerald-300{
-  --tw-text-opacity: 1;
-  color: rgb(110 231 183 / var(--tw-text-opacity));
-}
-
 .placeholder-opaque-black::placeholder{
   color: rgba(0,0,0,0.35);
 }
@@ -1238,12 +1233,6 @@ body,
   content: var(--tw-content);
   --tw-border-opacity: 1;
   border-color: rgb(253 204 73 / var(--tw-border-opacity));
-}
-
-.before\:border-red::before{
-  content: var(--tw-content);
-  --tw-border-opacity: 1;
-  border-color: rgb(220 68 146 / var(--tw-border-opacity));
 }
 
 .before\:content-person1::before{
