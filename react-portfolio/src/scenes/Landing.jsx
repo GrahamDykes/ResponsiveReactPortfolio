@@ -53,6 +53,9 @@ const Landing = ({ setSelectedPage }) => {
             >
               Dykes
             </span>
+            <p class='text-red-500'>
+            This line should be red!!
+            </p>
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">

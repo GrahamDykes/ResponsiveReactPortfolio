@@ -1235,6 +1235,12 @@ body,
   border-color: rgb(253 204 73 / var(--tw-border-opacity));
 }
 
+.before\:border-red::before{
+  content: var(--tw-content);
+  --tw-border-opacity: 1;
+  border-color: rgb(220 68 146 / var(--tw-border-opacity));
+}
+
 .before\:content-person1::before{
   --tw-content: url('./assets/person-1.png');
   content: var(--tw-content);
