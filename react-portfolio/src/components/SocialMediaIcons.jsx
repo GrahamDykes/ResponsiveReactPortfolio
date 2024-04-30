@@ -11,11 +11,11 @@ const SocialMediaIcons = () => {
         </a>
         <a
           className="hover:opacity-50 transition duration-500"
-          href="https://www.twitter.com"
+          href="https://github.com/GrahamDykes"
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="twitter-link" src="../assets/twitter.png" />
+          <img alt="github-link" src="../assets/githubIcon.png" />
         </a>
         <a
           className="hover:opacity-50 transition duration-500"

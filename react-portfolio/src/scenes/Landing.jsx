@@ -49,18 +49,15 @@ const Landing = ({ setSelectedPage }) => {
             Graham {""}
             <span
               className="xs:relative xs:text-deep-blue xs:font-semibold z-20 xs:before:content-brush
-              before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]"
+              before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1] before:opacity-10"
             >
               Dykes
             </span>
-            <p class='text-red-500'>
-            This line should be red!!
-            </p>
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+            A modern day 'Renaissance Man,' who spends his days learning as much
+            as he can about the world around him. He also loves computers and building things
           </p>
         </motion.div>
 
