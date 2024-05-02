@@ -901,10 +901,6 @@ video {
   background-color: rgb(253 204 73 / var(--tw-bg-opacity));
 }
 
-.bg-green{
-  background-color: 7fff00;
-}
-
 .bg-gradient-rainblue{
   background-image: linear-gradient(90deg, #24CBFF 14.53%, #FC59FF 69.36%, #FFBD0C 117.73%);
 }
@@ -1231,11 +1227,6 @@ body,
   content: var(--tw-content);
   --tw-border-opacity: 1;
   border-color: rgb(44 188 233 / var(--tw-border-opacity));
-}
-
-.before\:border-green::before{
-  content: var(--tw-content);
-  border-color: 7fff00;
 }
 
 .before\:opacity-10::before{
