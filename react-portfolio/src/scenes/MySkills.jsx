@@ -99,10 +99,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            Capable of utilizing cutting edge technology and techniques. While  
+            I absolutely value function over form, I approach most projects as
+            an opportunity to create functional art. Even if it is a data-cruching
+            application, you can rest assured it will do so in an aesthetically pleasing manner
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
