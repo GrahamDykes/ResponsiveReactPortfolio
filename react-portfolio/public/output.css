@@ -1229,6 +1229,12 @@ body,
   border-color: rgb(44 188 233 / var(--tw-border-opacity));
 }
 
+.before\:border-red::before{
+  content: var(--tw-content);
+  --tw-border-opacity: 1;
+  border-color: rgb(220 68 146 / var(--tw-border-opacity));
+}
+
 .before\:opacity-10::before{
   content: var(--tw-content);
   opacity: 0.1;
@@ -1354,6 +1360,10 @@ body,
     width: 75%;
   }
 
+  .md\:max-w-\[400px\]{
+    max-width: 400px;
+  }
+
   .md\:max-w-\[600px\]{
     max-width: 600px;
   }
@@ -1386,8 +1396,8 @@ body,
     text-align: start;
   }
 
-  .md\:before\:max-w-\[600px\]::before{
+  .md\:before\:max-w-\[400px\]::before{
     content: var(--tw-content);
-    max-width: 600px;
+    max-width: 400px;
   }
 }
