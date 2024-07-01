@@ -107,7 +107,8 @@ const MySkills = () => {
         </motion.div>
         {/* IMAGINATIVE */}
         <motion.div
-        //derp serious
+        //derp serious omg the shame. i did it for the dots
+    
           className="md:w-1/3 mt-10"
           initial="hidden"
           whileInView="visible"
